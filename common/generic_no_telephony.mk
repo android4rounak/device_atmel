@@ -32,14 +32,11 @@ PRODUCT_PACKAGES := \
     Gallery \
     InputDevices \
     LatinIME \
-    Launcher2 \
     Music \
     MusicFX \
     Provision \
-    Phone \
     QuickSearchBox \
     Settings \
-    SystemUI \
     CalendarProvider \
     bluetooth-health \
     hostapd \
