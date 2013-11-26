@@ -1,0 +1,4 @@
+<mixer>
+  <!-- These are the initial mixer settings -->
+  <ctl name="Output Mixer HiFi Playback Switch" value="1" />
+</mixer>
