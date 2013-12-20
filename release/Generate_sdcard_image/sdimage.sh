@@ -198,6 +198,11 @@ do
 					BOARD_ID=SAM9X5
 					SD_IMAGE_NAME=$BOARD_ID-$ANDROID_VERSION-$RELEASE_VERSION.img
 				;;
+                                "sam9g25" )
+                                        PRODUCT_DEVICE=$1
+                                        BOARD_ID=SAM9X5
+                                        SD_IMAGE_NAME=$BOARD_ID-$ANDROID_VERSION-$RELEASE_VERSION.img
+                                ;;
 				"sama5d3" )
 					PRODUCT_DEVICE=$1
 					BOARD_ID=SAMA5D3
